@@ -1,4 +1,4 @@
-# [NTIRE 2025 Challenge on Image Denoising](https://codalab.lisn.upsaclay.fr/competitions/21560) @ [CVPR 2025](https://cvpr2025.thecvf.com/)
+# [NTIRE 2025 Challenge on Image Denoising](https://codalab.lisn.upsaclay.fr/competitions/21560) @ CVPR 2025
 
 
 
